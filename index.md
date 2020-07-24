@@ -48,8 +48,19 @@ Body mass index: A key index for relating weight to height. Abbreviated BMI. The
 
 BMI is a person's weight in kilograms (kg) divided by his or her height in meters squared.
 
----
+```r
+height = 180 #in cm 
+weight = 70 #in kg
+bmi_cal= (weight / height^2) * 10000
+bmi_cal
+```
 
+```
+## [1] 21.60494
+```
+
+---
+    
 ## BMI Scale
 
 + If BMI is less than 18.5 you are considered UNDERWEIGHT.
