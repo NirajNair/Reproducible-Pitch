@@ -6,7 +6,7 @@ job         : 24 July, 2020
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
+widgets     : [mathjax, quiz, bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
@@ -31,10 +31,12 @@ Steps to Perform
 
 Enter your weight and height in the text field and you can find your BMI index.
 
-The application is running [here](https://abinashiprakash.shinyapps.io/Reproducible_Pitch/).
+The application is running [here](https://nirajnair.shinyapps.io/shiny_app/).
 
-ui.R, and Server.R Code in my github repository.
-You can find out [link](https://github.com/abinashi-prakash/Reproducible_Pitch).
+ui.R, and Server.R Code are in my github repository.
+You can find out [here](https://github.com/NirajNair/Shiny-App).
+
+Codes for these slides are [here](https://github.com/NirajNair/Reproducible-Pitch)
 
 ---
 ## BMI calculator

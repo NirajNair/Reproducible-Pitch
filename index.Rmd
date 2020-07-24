@@ -33,8 +33,10 @@ Enter your weight and height in the text field and you can find your BMI index.
 
 The application is running [here](https://nirajnair.shinyapps.io/shiny_app/).
 
-ui.R, and Server.R Code in my github repository.
+ui.R, and Server.R Code are in my github repository.
 You can find out [here](https://github.com/NirajNair/Shiny-App).
+
+Codes for these slides are [here](https://github.com/NirajNair/Reproducible-Pitch)
 
 ---
 ## BMI calculator
